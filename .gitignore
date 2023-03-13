@@ -2,7 +2,7 @@
 *.pdfx
 
 # CMake output directories:
-Binaries/*
+#Binaries/*
 
 # downloaded f2c sources
 f2c
